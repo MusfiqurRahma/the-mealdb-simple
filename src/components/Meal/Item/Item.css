@@ -1,0 +1,40 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+.item-container{
+    margin-top: 20px;
+    width: 80%;
+    border-radius: 10px;
+    display: block;
+    border: 1px solid gray;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 2px 5px 10px 2px;
+}
+.details-list{
+    margin-left: 10px;
+}
+.regular-btn{
+    background-color: #ff3a88;
+    border: 1px solid rgb(168, 104, 168);
+    padding: 5px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+}
+.regular-btn:hover{
+    background-color: #a36980;
+}
+.cart-icon{
+    margin-right: 10px;
+    color: black;
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+    background-color: chocolate;
+    padding: 3px;
+    border-radius: 10px;
+}
